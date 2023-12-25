@@ -11,7 +11,7 @@ export default defineConfig({
 				'./src/styles/chicken-business.css',
 			],
 			social: {
-				github: 'https://blah28722.github.io/',
+				github: 'https://github.com/blah28722/chicken-business-docs',
 			},
 			sidebar: [
 				{
